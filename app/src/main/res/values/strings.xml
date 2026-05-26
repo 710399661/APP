@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mshk</string>
+    <string name="select_apk">选择APK</string>
+    <string name="patch_apk">开始修补</string>
+    <string name="patching">正在修补…</string>
+    <string name="patch_success">修补成功</string>
+    <string name="patch_failed">修补失败</string>
+    <string name="select_apk_first">请先选择APK</string>
+    <string name="install">安装</string>
+    <string name="original_apk">原包</string>
+    <string name="signed_apk">过签包</string>
+</resources>
+
